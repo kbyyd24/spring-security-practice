@@ -1,0 +1,415 @@
+GET http://localhost:8080/weibos/fa5ef1c2-f4a6-4e24-b01e-c88934454e45
+Authorization: Basic YWRtaW46YWRtaW4=
+
+<> 2020-06-26T061112.403.json
+
+###
+
+GET http://localhost:8080/weibos/fa5ef1c2-f4a6-4e24-b01e-c88934454e45
+
+<> 2020-06-26T061055.401.json
+
+###
+
+GET http://localhost:8080/weibos/fa5ef1c2-f4a6-4e24-b01e-c88934454e45
+Authorization: Basic dGVzdDI6aGVsbG8=
+
+<> 2020-06-26T061050.200.json
+
+###
+
+GET http://localhost:8080/weibos/fa5ef1c2-f4a6-4e24-b01e-c88934454e45
+Authorization: Basic dGVzdDI6aGVsbG8=
+
+<> 2020-06-26T060928.200.json
+
+###
+
+GET http://localhost:8080/weibos/fa5ef1c2-f4a6-4e24-b01e-c88934454e45
+Authorization: Basic dGVzdDpoZWxsbw==
+
+<> 2020-06-26T060923.200.json
+
+###
+
+GET http://localhost:8080/weibos/46c46e85-01d7-41fd-a2c3-5bb55c0ad6c8
+Authorization: Basic dGVzdDpoZWxsbw==
+
+<> 2020-06-26T060836.500.json
+
+###
+
+POST http://localhost:8080/weibos
+Authorization: Basic dGVzdDpoZWxsbw==
+Content-Type: application/json
+
+{
+  "content": "weibo"
+}
+
+###
+
+GET http://localhost:8080/weibos/46c46e85-01d7-41fd-a2c3-5bb55c0ad6c8
+Authorization: Basic dGVzdDI6aGVsbG8=
+
+<> 2020-06-26T055942.403.json
+
+###
+
+GET http://localhost:8080/weibos/46c46e85-01d7-41fd-a2c3-5bb55c0ad6c8
+Authorization: Basic dGVzdDpoZWxsbw==
+
+<> 2020-06-26T055933.200.json
+
+###
+
+GET http://localhost:8080/weibos/46c46e85-01d7-41fd-a2c3-5bb55c0ad6c8
+Authorization: Basic dGVzdDpoZWxsbw==
+
+<> 2020-06-26T055912.403.json
+
+###
+
+GET http://localhost:8080/weibos/46c46e85-01d7-41fd-a2c3-5bb55c0ad6c8
+Authorization: Basic dGVzdDI6aGVsbG8=
+
+<> 2020-06-26T055658.403.json
+
+###
+
+GET http://localhost:8080/weibos/46c46e85-01d7-41fd-a2c3-5bb55c0ad6c8
+Authorization: Basic dGVzdDI6aGVsbG8=
+
+<> 2020-06-26T055443.403.json
+
+###
+
+GET http://localhost:8080/weibos/46c46e85-01d7-41fd-a2c3-5bb55c0ad6c8
+Authorization: Basic dGVzdDpoZWxsbw==
+
+<> 2020-06-26T055425.403.json
+
+###
+
+GET http://localhost:8080/weibos/46c46e85-01d7-41fd-a2c3-5bb55c0ad6c8
+Authorization: Basic dGVzdDpoZWxsbw==
+
+<> 2020-06-26T055400.403.json
+
+###
+
+GET http://localhost:8080/weibos/46c46e85-01d7-41fd-a2c3-5bb55c0ad6c8
+Authorization: Basic dGVzdDpoZWxsbw==
+
+<> 2020-06-26T054648.403.json
+
+###
+
+GET http://localhost:8080/weibos/46c46e85-01d7-41fd-a2c3-5bb55c0ad6c8
+Authorization: Basic dGVzdDpoZWxsbw==
+
+<> 2020-06-26T054532.403.json
+
+###
+
+GET http://localhost:8080/weibos/46c46e85-01d7-41fd-a2c3-5bb55c0ad6c8
+Authorization: Basic dGVzdDpoZWxsbw==
+
+<> 2020-06-26T054457.403.json
+
+###
+
+GET http://localhost:8080/weibos/46c46e85-01d7-41fd-a2c3-5bb55c0ad6c8
+Authorization: Basic dGVzdDpoZWxsbw==
+
+<> 2020-06-26T051903.403.json
+
+###
+
+GET http://localhost:8080/weibos/46c46e85-01d7-41fd-a2c3-5bb55c0ad6c8
+Authorization: Basic dGVzdDpoZWxsbw==
+
+<> 2020-06-26T051519.200.json
+
+###
+
+GET http://localhost:8080/weibos/46c46e85-01d7-41fd-a2c3-5bb55c0ad6c8
+
+<> 2020-06-26T051502.401.json
+
+###
+
+POST http://localhost:8080/weibos
+Authorization: Basic dGVzdDpoZWxsbw==
+Content-Type: application/json
+
+{
+  "content": "weibo"
+}
+
+###
+
+POST http://localhost:8080/weibos
+Authorization: Basic dGVzdDpoZWxsbw==
+Content-Type: application/json
+
+{
+  "content": "weibo"
+}
+
+###
+
+POST http://localhost:8080/weibos
+Authorization: Basic dGVzdDpoZWxsbw==
+Content-Type: application/json
+
+{
+  "content": "weibo"
+}
+
+###
+
+POST http://localhost:8080/weibos
+Authorization: Basic dGVzdDpoZWxsbw==
+Content-Type: application/json
+
+{
+  "content": "weibo"
+}
+
+###
+
+POST http://localhost:8080/weibos
+Authorization: Basic dGVzdDpoZWxsbw==
+Content-Type: application/json
+
+{
+  "content": "weibo"
+}
+
+<> 2020-06-26T110729.500.json
+
+###
+
+POST http://localhost:8080/weibos
+Authorization: Basic dGVzdDpoZWxsbw==
+Content-Type: application/json
+
+{
+  "content": "weibo"
+}
+
+###
+
+POST http://localhost:8080/weibos
+Authorization: Basic dGVzdDpoZWxsbw==
+Content-Type: application/json
+
+{
+  "content": "weibo"
+}
+
+<> 2020-06-26T110103.500.json
+
+###
+
+POST http://localhost:8080/weibos
+Authorization: Basic dGVzdDpoZWxsbw==
+Content-Type: application/json
+
+{
+  "content": "weibo"
+}
+
+<> 2020-06-26T105735.500.json
+
+###
+
+POST http://localhost:8080/weibos
+Authorization: Basic dGVzdDpoZWxsbw==
+Content-Type: application/json
+
+{
+  "content": "weibo"
+}
+
+<> 2020-06-26T105631.500.json
+
+###
+
+POST http://localhost:8080/weibos
+Authorization: Basic dGVzdDpoZWxsbw==
+Content-Type: application/json
+
+{
+  "content": "weibo"
+}
+
+<> 2020-06-26T105303.500.json
+
+###
+
+POST http://localhost:8080/weibos
+Authorization: Basic dGVzdDpoZWxsbw==
+Content-Type: application/json
+
+{
+  "content": "weibo"
+}
+
+<> 2020-06-25T123649.500.json
+
+###
+
+POST http://localhost:8080/weibos
+Authorization: Basic dGVzdDpoZWxsbw==
+Content-Type: application/json
+
+{
+  "content": "weibo"
+}
+
+###
+
+POST http://localhost:8080/weibos
+Authorization: Basic dGVzdDpoZWxsbw==
+Content-Type: application/json
+
+{
+  "content": "weibo"
+}
+
+<> 2020-06-25T121552.500.json
+
+###
+
+POST http://localhost:8080/weibos
+Authorization: Basic dGVzdDpoZWxsbw==
+Content-Type: application/json
+
+{
+  "content": "weibo"
+}
+
+<> 2020-06-25T121122.500.json
+
+###
+
+POST http://localhost:8080/weibos
+Authorization: Basic dGVzdDpoZWxsbw==
+Content-Type: application/json
+
+{
+  "content": "weibo"
+}
+
+<> 2020-06-25T120642.500.json
+
+###
+
+POST http://localhost:8080/weibos
+Authorization: Basic dGVzdDpoZWxsbw==
+Content-Type: application/json
+
+{
+  "content": "weibo"
+}
+
+###
+
+POST http://localhost:8080/weibos
+Authorization: Basic dGVzdDpoZWxsbw==
+Content-Type: application/json
+
+{
+  "content": "weibo"
+}
+
+<> 2020-06-23T105821.500.json
+
+###
+
+POST http://localhost:8080/weibos
+Authorization: Basic dGVzdDpoZWxsbw==
+Content-Type: application/json
+
+{
+  "content": "weibo"
+}
+
+<> 2020-06-23T105719.500.json
+
+###
+
+POST http://localhost:8080/weibos
+Authorization: Basic dGVzdDpoZWxsbw==
+Content-Type: application/json
+
+{
+  "content": "weibo"
+}
+
+<> 2020-06-23T105559.400.json
+
+###
+
+GET http://localhost:8080/hello
+Authorization: Basic dGVzdDpoZWxsbw==
+
+###
+
+GET http://localhost:8080/hello
+Authorization: Basic dGVzdDpoZWxsbw==
+
+###
+
+GET http://localhost:8080/hello
+Authorization: Basic dGVzdDpoZWxsbw==
+
+<> 2020-06-12T114853.200.txt
+
+###
+
+GET http://localhost:8080/hello
+
+<> 2020-06-12T114730.401.json
+
+###
+
+GET http://localhost:8080/hello
+
+<> 2020-06-12T114516.401.json
+
+###
+
+POST http://localhost:8080/login
+Content-Type: application/x-www-form-urlencoded
+
+username=test&password=hello
+
+###
+
+GET http://localhost:8080/hello
+
+<> 2020-06-07T095914.401.json
+
+###
+
+GET http://localhost:8080/hello
+
+<> 2020-06-07T095846.401.json
+
+###
+
+POST http://localhost:8080/login
+
+###
+
+POST http://localhost:8080/login?username=test&password=hello
+
+###
+
+POST http://localhost:8080/login?username=test&password=hello
+
+<> 2020-06-07T034819.401.json
+
